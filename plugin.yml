@@ -1,0 +1,4 @@
+main: me.setup.ActivatorMain
+author: InfranPlugins
+version: 1.0
+name: StartLoader
